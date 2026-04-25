@@ -76,7 +76,7 @@ Spacers, Screws, washers & Pliers (Kurtzy 3 Pack Mini Jewellery Plier Tool Kit S
 <img width="679" height="729" alt="image" src="https://github.com/user-attachments/assets/46017fe0-17b7-4ec1-b92f-2bee8bc18ced" />
 
 
-Phase-2: SLAM and Navigation (in ROS)
-Phase-3: Camera, Ultrasonic integration
-Phase-4: Autonomous Navigation
-Phase-5: GPS Denied Operating Domain
+Phase-2: SLAM and Navigation (in ROS) <br>
+Phase-3: Camera, Ultrasonic integration<br>
+Phase-4: Autonomous Navigation<br>
+Phase-5: GPS Denied Operating Domain<br>
